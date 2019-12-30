@@ -1,0 +1,11 @@
+{
+    "questions": [
+        {
+            "id": 0,
+            "section": 0,
+            "ratbsb": "C3.2.2.1",
+            "rule": "Verificar se equipe está dentro do horário ou se é re-check",
+            "criterion": ""
+        }
+    ]
+}
